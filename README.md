@@ -49,7 +49,7 @@ Let's make a difference today for a cleaner and greener tomorrow! 🌍✨
 ### Contributors
 
 - [Shivansh]
-- [Ujjawal]
+- [Ujjwal]
 - [Devanshu]
 - [Shiv]
 
