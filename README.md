@@ -1,4 +1,4 @@
-# Automated Waste Segregation: A Vision for Sustainable Tomorrow
+# Automated Waste Segregation: A Vision for a Sustainable Tomorrow
 
 ## Project Overview
 
@@ -24,7 +24,7 @@ Traditional waste segregation methods are manual, error-prone, and contribute to
 
 ### Why This Matters
 
-Waste mismanagement contributes to pollution, resource depletion, and ecological imbalance. By embracing automated waste segregation, we embark on a journey towards a cleaner, greener future. Our project aligns with the global call for sustainable practices and environmental responsibility.
+Waste mismanagement contributes to pollution, resource depletion, and ecological imbalance. By embracing automated waste segregation, we embark on a journey toward a cleaner, greener future. Our project aligns with the global call for sustainable practices and environmental responsibility.
 
 ### Features
 
@@ -35,7 +35,7 @@ Waste mismanagement contributes to pollution, resource depletion, and ecological
    - Experience the power of machine learning with classification models that seamlessly categorize waste into recyclable and non-recyclable groups.
 
 3. **Real-time Processing Capabilities:**
-   - Practicality meets innovation as our application processes images in real-time, catering to the dynamic needs of waste processing facilities and individual users alike.
+   - Practicality meets innovation as our application processes images in real time, catering to the dynamic needs of waste processing facilities and individual users alike.
 
 4. **Integration with Robotics:**
    - Explore the future of waste management with potential integration into robotic systems, heralding a paradigm shift towards automated, large-scale waste segregation.
