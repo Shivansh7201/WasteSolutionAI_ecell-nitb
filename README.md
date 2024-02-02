@@ -51,7 +51,7 @@ Let's make a difference today for a cleaner and greener tomorrow! 🌍✨
 - [Shivansh](https://www.github.com/Shivansh7201)
 - [Ujjwal](https://www.github.com/masterujjval)
 - [Devanshu](https://github.com/Devanshumasodker)
-- [Shiv]
+- [Shiv](https://github.com/GyaniShiv)
 
 ### License
 
