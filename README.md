@@ -1,4 +1,4 @@
-# Automated Waste Segregation: A Vision for a Sustainable Tomorrow
+# Automated Waste Segregation: A Vision for a Sustainable Tomorrow:
 
 ## Project Overview
 
